@@ -71,7 +71,8 @@ After submitting your final vote, the screen below will appear, confirming that 
 The confirmation screen also shows the following automatic actions: 
 - Voting Code Expired — your one-time voting code has been invalidated
 - Session Closed — your voting session has been terminated automatically
-- Vote Anonymised — your identity has been decoupled from your ballot 
+- Vote Anonymised — your identity has been decoupled from your ballot.  
+  
 You may then click **Return to Home** or **Logout Securely** to exit the application.
 
 # Section 6: Troubleshooting and FAQs 
@@ -116,7 +117,7 @@ Your progress is temporarily saved on the server. Log back in using your credent
 **Can I change my vote after confirming my selections?**  
 No. Once your final vote is submitted, it cannot be edited or reversed. Review your selections carefully before clicking Confirm Selections.  
 
-**What if a position has no candidate listed?** 
+**What if a position has no candidate listed?**   
 Positions with no registered candidates will not appear on your voting dashboard.   
 
 ## After Voting 
