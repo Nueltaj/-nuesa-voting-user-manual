@@ -2,26 +2,7 @@
 Prepared by: **Omotaje Emmanuel O.**  
 Date: 03/06/2026  
 Version: 1.0 
-
-## Table of Contents
-
-- [**NUESA VOTING APPLICATION USER MANUAL**](#nuesa-voting-application-user-manual)
-  - [Table of Contents](#table-of-contents)
-- [Introduction](#introduction)
-- [Section 1: Voter Registration](#section-1-voter-registration)
-- [Section 2: Your Voting Credentials](#section-2-your-voting-credentials)
-- [Section 3: Logging In](#section-3-logging-in)
-- [Section 4: Casting Your Vote](#section-4-casting-your-vote)
-- [Section 5: After Voting](#section-5-after-voting)
-- [Section 6: Troubleshooting and FAQs](#section-6-troubleshooting-and-faqs)
-  - [Registration](#registration)
-  - [Voting Credentials](#voting-credentials)
-  - [Login](#login)
-  - [During Voting](#during-voting)
-  - [After Voting](#after-voting)
-  - [General](#general)
-- [Section 7: Contact \& Support](#section-7-contact--support)
----
+--- 
 # Introduction
 
 This guide walks you through the process of casting your vote in the NUESA virtual election. The election is conducted entirely online, ensuring every eligible student can participate securely from wherever they are.
@@ -58,6 +39,7 @@ Once your eligibility has been confirmed, you will receive an email from the off
 
 # Section 3: Logging In 
 Open the Voting Website Link provided in your email. You will be directed to the _login page_ of the voting application, as shown below.
+
 ![Login Page](<login.png>) 
 > Figure 1: Voter Authentication — Login Page
 
@@ -65,6 +47,7 @@ Enter your **Matric Number** (e.g. ENG/2021/001) and your **Unique Voting Code**
 
 # Section 4: Casting Your Vote 
 You will be directed to the voting dashboard, where all available positions are listed. A progress bar at the top tracks how many positions you have voted for.
+
 ![Voting Dashboard](<voting_dashboard.png>)
 > Figure 2: Voting Dashboard — Cast Your Vote
 
@@ -72,11 +55,13 @@ For each position, the names of the candidates are displayed along with their de
 
 You are required to vote for all five positions — President, Vice President, Secretary, Financial Secretary, and Public Relations Officer — before your submission will be
 accepted.
+
 ![Position Voting Dashboard](<Position_Voting_Dashboard.png>)
 > Figure 3: All Positions Voted — Confirm Selections Active
 
 Once all positions have been voted for, the status bar at the bottom will display “All positions voted. Confirm your selections first.” The Confirm Selections button will
 become active. 
+
 ![Selections Confirmed](<Selections_Confirmed.png>)
 > Figure 4: Selections Confirmed — Submit Your Final Vote
 
