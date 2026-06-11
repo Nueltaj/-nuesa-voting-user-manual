@@ -1,0 +1,10 @@
+site_name: NUESA Voting Application User Manual
+site_description: A voter-facing user manual for the NUESA virtual election platform
+site_author: Omotaje Emmanuel O.
+
+nav:
+  - User Manual: index.md
+  - About this Document: about.md
+
+theme:
+  name: material
