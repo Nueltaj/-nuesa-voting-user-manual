@@ -1,8 +1,3 @@
-# **NUESA VOTING APPLICATION USER MANUAL**
-Prepared by: **Omotaje Emmanuel O.**  
-Date: 03/06/2026  
-Version: 1.0 
---- 
 # Introduction
 
 This guide walks you through the process of casting your vote in the NUESA virtual election. The election is conducted entirely online, ensuring every eligible student can participate securely from wherever they are.
