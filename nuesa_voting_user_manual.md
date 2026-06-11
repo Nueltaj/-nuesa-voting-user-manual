@@ -41,7 +41,7 @@ Once your eligibility has been confirmed, you will receive an email from the off
 Open the Voting Website Link provided in your email. You will be directed to the _login page_ of the voting application, as shown below.
 
 ![Login Page](<login.png>) 
-> Figure 1: Voter Authentication — Login Page
+
 
 Enter your **Matric Number** (e.g. ENG/2021/001) and your **Unique Voting Code** in the provided fields, then click the **Access Voting Portal** button to proceed.
 
@@ -49,7 +49,7 @@ Enter your **Matric Number** (e.g. ENG/2021/001) and your **Unique Voting Code**
 You will be directed to the voting dashboard, where all available positions are listed. A progress bar at the top tracks how many positions you have voted for.
 
 ![Voting Dashboard](<voting_dashboard.png>)
-> Figure 2: Voting Dashboard — Cast Your Vote
+
 
 For each position, the names of the candidates are displayed along with their department. You may click the “Manifesto” button beside a candidate’s name to view their profile before making your choice. Select your preferred candidate by clicking the radio button next to their name. 
 
@@ -57,13 +57,13 @@ You are required to vote for all five positions — President, Vice President, S
 accepted.
 
 ![Position Voting Dashboard](<Position_Voting_Dashboard.png>)
-> Figure 3: All Positions Voted — Confirm Selections Active
+
 
 Once all positions have been voted for, the status bar at the bottom will display “All positions voted. Confirm your selections first.” The Confirm Selections button will
 become active. 
 
 ![Selections Confirmed](<Selections_Confirmed.png>)
-> Figure 4: Selections Confirmed — Submit Your Final Vote
+
 
 After clicking **Confirm Selections**, the bar will update to “Selections confirmed. Submit your final vote.” Click the **Submit** button to cast your vote. This action is final and cannot be undone.
 
@@ -71,7 +71,7 @@ After clicking **Confirm Selections**, the bar will update to “Selections conf
 After submitting your final vote, the screen below will appear, confirming that your vote has been encrypted and securely recorded on the NUESA election server.
 
 ![Vote Recorded](<vote_recorded.png>)
-> Figure 5: Vote Recorded Successfully
+
 
 The confirmation screen also shows the following automatic actions: 
 - Voting Code Expired — your one-time voting code has been invalidated
