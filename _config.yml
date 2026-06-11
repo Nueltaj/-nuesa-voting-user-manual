@@ -1,4 +1,7 @@
 title: NUESA Voting Application User Manual
 description: A voter-facing user manual for the NUESA virtual election platform
-theme: minima
 author: Omotaje Emmanuel O.
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+nav_enabled: true
