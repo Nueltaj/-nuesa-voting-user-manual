@@ -1,4 +1,4 @@
 # Summary
 
-* [NUESA Voting Application User Manual](nuesa_voting_user_manual.md)
+* [NUESA Voting Application User Manual](index.md)
 *  [About this Document](about.md)
