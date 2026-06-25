@@ -147,9 +147,8 @@ in Section 7 of this guide.
 # Section 7: Contact & Support 
 If you encounter any issue not covered in this guide, or require immediate assistance during the election period, please reach out to the NUESA support team through any
 of the following channels:   
-**Email: nuesasupport@gmail.com**  
-**Phone/WhatsApp:** 05467890987654  
-**In-Person:**  NUESA Secretariat, Engineering Faculty Building  
+**Email: ayriatechnologies@gmail.com**  
+**Phone/WhatsApp:** 07031981905    
 **Support Hours:**  Available from 4th June to 26th June, 2026 
 
 For general enquiries outside the election period, contact the Electoral Committee
